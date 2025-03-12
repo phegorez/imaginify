@@ -1,4 +1,4 @@
-import { Document, model, models, Schema } from "mongoose";
+import { model, models, Schema } from "mongoose";
 
 // clerkId, email, username, photo, firstName, LastName, planId, creditBalance
 
